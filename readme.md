@@ -12,5 +12,5 @@ Mix it all up with the holy stick of Chairman Wow
 Now you're somewhere close to the epic that *is* editing Markdown on WinRT.
 
 
-You download this now at [Windows Store App (link)](http://apps.microsoft.com/windows/ko-kr/app/markpad/9a6d2b74-a7d9-4edf-9ea4-29d8f21b4c29).
+You download this now at [Microsoft Store App (link)](https://apps.microsoft.com/detail/9wzdncrdcfsb?hl=en-us&gl=US)).
 
